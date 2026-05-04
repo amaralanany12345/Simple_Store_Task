@@ -3,20 +3,16 @@
   "WorkspaceRootPath": "D:\\Projects\\StoreTask\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{348FCC0D-2743-461C-8730-1343A32944B8}|StoreTask\\StoreTask.csproj|d:\\projects\\storetask\\storetask\\service\\orderservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{348FCC0D-2743-461C-8730-1343A32944B8}|StoreTask\\StoreTask.csproj|solutionrelative:storetask\\service\\orderservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{348FCC0D-2743-461C-8730-1343A32944B8}|StoreTask\\StoreTask.csproj|d:\\projects\\storetask\\storetask\\service\\itemservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{348FCC0D-2743-461C-8730-1343A32944B8}|StoreTask\\StoreTask.csproj|solutionrelative:storetask\\service\\itemservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{348FCC0D-2743-461C-8730-1343A32944B8}|StoreTask\\StoreTask.csproj|d:\\projects\\storetask\\storetask\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{348FCC0D-2743-461C-8730-1343A32944B8}|StoreTask\\StoreTask.csproj|solutionrelative:storetask\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{348FCC0D-2743-461C-8730-1343A32944B8}|StoreTask\\StoreTask.csproj|d:\\projects\\storetask\\storetask\\service\\categoryservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{348FCC0D-2743-461C-8730-1343A32944B8}|StoreTask\\StoreTask.csproj|solutionrelative:storetask\\service\\categoryservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{348FCC0D-2743-461C-8730-1343A32944B8}|StoreTask\\StoreTask.csproj|d:\\projects\\storetask\\storetask\\service\\userservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{348FCC0D-2743-461C-8730-1343A32944B8}|StoreTask\\StoreTask.csproj|solutionrelative:storetask\\service\\userservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{348FCC0D-2743-461C-8730-1343A32944B8}|StoreTask\\StoreTask.csproj|d:\\projects\\storetask\\storetask\\service\\orderservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{348FCC0D-2743-461C-8730-1343A32944B8}|StoreTask\\StoreTask.csproj|solutionrelative:storetask\\service\\orderservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -46,52 +42,39 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
-              "Title": "CategoryService.cs",
-              "DocumentMoniker": "D:\\Projects\\StoreTask\\StoreTask\\Service\\CategoryService.cs",
-              "RelativeDocumentMoniker": "StoreTask\\Service\\CategoryService.cs",
-              "ToolTip": "D:\\Projects\\StoreTask\\StoreTask\\Service\\CategoryService.cs",
-              "RelativeToolTip": "StoreTask\\Service\\CategoryService.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAABDAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-05-03T11:27:22.429Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
               "DocumentIndex": 1,
-              "Title": "ItemService.cs",
-              "DocumentMoniker": "D:\\Projects\\StoreTask\\StoreTask\\Service\\ItemService.cs",
-              "RelativeDocumentMoniker": "StoreTask\\Service\\ItemService.cs",
-              "ToolTip": "D:\\Projects\\StoreTask\\StoreTask\\Service\\ItemService.cs",
-              "RelativeToolTip": "StoreTask\\Service\\ItemService.cs",
-              "ViewState": "AgIAADwAAAAAAAAAAAAAAEIAAAAJAAAAAAAAAA==",
+              "Title": "UserService.cs",
+              "DocumentMoniker": "D:\\Projects\\StoreTask\\StoreTask\\Service\\UserService.cs",
+              "RelativeDocumentMoniker": "StoreTask\\Service\\UserService.cs",
+              "ToolTip": "D:\\Projects\\StoreTask\\StoreTask\\Service\\UserService.cs",
+              "RelativeToolTip": "StoreTask\\Service\\UserService.cs",
+              "ViewState": "AgIAABIAAAAAAAAAAAAYwCAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-05-03T11:24:22.92Z",
+              "WhenOpened": "2026-05-04T10:06:41.021Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 2,
               "Title": "OrderService.cs",
               "DocumentMoniker": "D:\\Projects\\StoreTask\\StoreTask\\Service\\OrderService.cs",
               "RelativeDocumentMoniker": "StoreTask\\Service\\OrderService.cs",
               "ToolTip": "D:\\Projects\\StoreTask\\StoreTask\\Service\\OrderService.cs",
               "RelativeToolTip": "StoreTask\\Service\\OrderService.cs",
-              "ViewState": "AgIAABIAAAAAAAAAAAAuwB0AAAAJAAAAAAAAAA==",
+              "ViewState": "AgIAACoAAAAAAAAAAAAAADoAAAA6AAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2026-05-02T09:19:40.033Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 0,
               "Title": "Program.cs",
               "DocumentMoniker": "D:\\Projects\\StoreTask\\StoreTask\\Program.cs",
               "RelativeDocumentMoniker": "StoreTask\\Program.cs",
               "ToolTip": "D:\\Projects\\StoreTask\\StoreTask\\Program.cs",
               "RelativeToolTip": "StoreTask\\Program.cs",
-              "ViewState": "AgIAAEQAAAAAAAAAAAAAABAAAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAABcAAAAAAAAAAAAAABsAAABDAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2026-05-01T14:28:13.443Z",
               "EditorCaption": ""

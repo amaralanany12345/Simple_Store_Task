@@ -20,19 +20,15 @@ namespace StoreTask.Service
             Console.WriteLine("enter your email");
             var userEmail = Console.ReadLine();
             var user= UploadDataService.Users.Where(a=>a.email == userEmail).FirstOrDefault();
-            if(user == null)
+            while(user == null)
             {
-                Console.WriteLine("user is not found");
+                Console.ForegroundColor = ConsoleColor.Red;
+                Console.WriteLine("user is not found, please add another email");
+                Console.ForegroundColor=ConsoleColor.White;
+                userEmail = Console.ReadLine();
+                user= UploadDataService.Users.Where(a=>a.email == userEmail).FirstOrDefault();
             }
             return user;
-        }
-
-        public void showUsers()
-        {
-            foreach(var user in UploadDataService.Users)
-            {
-                Console.WriteLine(user.userName);
-            }
         }
     }
 }

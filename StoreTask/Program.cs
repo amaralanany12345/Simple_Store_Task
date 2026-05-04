@@ -25,10 +25,13 @@ namespace StoreTask
                 {
                     if (user is Admin)
                     {
+                        Console.ForegroundColor = ConsoleColor.Blue;
                         Console.WriteLine();
                         Console.WriteLine($"admin is {user.userName}");
                         Console.WriteLine("-------------");
                         Console.WriteLine();
+                        Console.ForegroundColor = ConsoleColor.White;
+
                         Console.WriteLine("1 show categories");
                         Console.WriteLine("2 show items");
                         Console.WriteLine("3 add category");
@@ -65,13 +68,17 @@ namespace StoreTask
                         var newCustomer = new Customer();
                         newCustomer = user as Customer;
                         Console.WriteLine();
+                        Console.ForegroundColor = ConsoleColor.Blue;
                         Console.WriteLine($"customer is {newCustomer.userName}, balance is {newCustomer.balance} ");
                         Console.WriteLine("-------------");
                         Console.WriteLine();
+                        Console.ForegroundColor= ConsoleColor.White;
+
+                        Console.WriteLine();
                         Console.WriteLine("1 view all categories");
-                        Console.WriteLine("2 show items");
+                        Console.WriteLine("2 browse items");
                         Console.WriteLine("3 show items by category");
-                        Console.WriteLine("4 add order");
+                        Console.WriteLine("4 plase order");
                         Console.WriteLine("5 log out");
                         Console.WriteLine("6 finish the program");
 
