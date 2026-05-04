@@ -1,0 +1,14 @@
+D:\Projects\StoreTask\StoreTask\obj\Debug\net9.0\StoreTask.GeneratedMSBuildEditorConfig.editorconfig
+D:\Projects\StoreTask\StoreTask\obj\Debug\net9.0\StoreTask.AssemblyInfoInputs.cache
+D:\Projects\StoreTask\StoreTask\obj\Debug\net9.0\StoreTask.AssemblyInfo.cs
+D:\Projects\StoreTask\StoreTask\obj\Debug\net9.0\StoreTask.csproj.CoreCompileInputs.cache
+D:\Projects\StoreTask\StoreTask\bin\Debug\net9.0\StoreTask.exe
+D:\Projects\StoreTask\StoreTask\bin\Debug\net9.0\StoreTask.deps.json
+D:\Projects\StoreTask\StoreTask\bin\Debug\net9.0\StoreTask.runtimeconfig.json
+D:\Projects\StoreTask\StoreTask\bin\Debug\net9.0\StoreTask.dll
+D:\Projects\StoreTask\StoreTask\bin\Debug\net9.0\StoreTask.pdb
+D:\Projects\StoreTask\StoreTask\obj\Debug\net9.0\StoreTask.dll
+D:\Projects\StoreTask\StoreTask\obj\Debug\net9.0\refint\StoreTask.dll
+D:\Projects\StoreTask\StoreTask\obj\Debug\net9.0\StoreTask.pdb
+D:\Projects\StoreTask\StoreTask\obj\Debug\net9.0\StoreTask.genruntimeconfig.cache
+D:\Projects\StoreTask\StoreTask\obj\Debug\net9.0\ref\StoreTask.dll
