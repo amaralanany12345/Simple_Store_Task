@@ -17,10 +17,10 @@ namespace StoreTask.Service
         {
             Users = new List<User>
             {
-                new Admin { userName = "ammar", email = "ammar" },
-                new Customer { userName = "saad", email = "saad", balance=2000 },
-                new Admin { userName = "ali", email = "ali@gmail.com" },
-                new Customer { userName = "mohamed", email = ",mohamed@gmail.com", balance =1000 },
+                new Admin { userName = "ammar mostafa", email = "ammar@gmail.com" },
+                new Customer { userName = "saad mohamed", email = "saad", balance=2000 },
+                new Admin { userName = "ali abdo", email = "ali@gmail.com" },
+                new Customer { userName = "mohamed ahmed", email = ",mohamed@gmail.com", balance =1000 },
             };
 
             var bookCategory = new Category { categoryName = "books" };
